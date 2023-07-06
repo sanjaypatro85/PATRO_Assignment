@@ -1,0 +1,13 @@
+.t1 {
+    background-color: yellow;
+}
+.b1{
+    background-color: blue;
+}
+abc {
+    font-style: italic;
+    }
+table,td{
+        border: double;
+        color: red;
+    }
